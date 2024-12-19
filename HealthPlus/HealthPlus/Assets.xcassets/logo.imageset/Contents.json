@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "health-logo-design-template-ff446f20c9e419b233f4092f44293a60_screen-removebg-preview.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

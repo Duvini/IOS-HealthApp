@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "126986235-fitness-woman-with-sport-elements-cartoon-vector-illustration-graphic-design-removebg-preview.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
